@@ -107,7 +107,7 @@ Hospitals often face:
 
 
 
----[Surinder  project report.pdf](https://github.com/user-attachments/files/26544627/Surinder.project.report.pdf)
+---[Phillip Kapito  project report.pdf](https://github.com/Kapito01/Healthcare/blob/main/phillip%20%20project%20report.pdf)
 
 
 ## 📷 Dashboard Preview
@@ -119,7 +119,7 @@ Hospitals often face:
 
 ## 👩‍💻 Author
 
-**Surinder Kaur**
+**Phillip Kapito**
 BSc Computer Science
 Chandigarh University
 
