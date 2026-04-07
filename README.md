@@ -54,6 +54,7 @@ Hospitals often face:
 * Admission trends (Emergency, Routine, Urgent)
 * Insurance billing analysis
 * Year-wise patterns
+<img width="1376" height="783" alt="Screenshot 2025-07-05 092317" src="https://github.com/user-attachments/assets/f0c8b923-6ec6-46c3-bb55-539889a92f0f" />
 
 ---
 
@@ -63,7 +64,8 @@ Hospitals often face:
 * Chronic vs infectious disease trends
 * Health insights
 
----
+---<img width="1363" height="800" alt="Screenshot 2025-07-05 145409" src="https://github.com/user-attachments/assets/4dd45359-a72d-4ea9-827a-9ae62c018782" />
+
 
 ## 📈 Key Insights
 
